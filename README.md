@@ -18,6 +18,8 @@ With 14+ years of end‑to‑end QA engineering experience across **Banking, Ret
 - 🧩 **Environment Simulation** — WireMock  
 - 🚀 **CI/CD Integration** — Jenkins, Bamboo  
 - 📊 **Monitoring & Incident Analysis** — Splunk, ITSM  
+-🤖 **Mobile Test and Automation** -Sauce Labs , Andriod
+studio, Espresso and XCUITest 
 
 ---
 
